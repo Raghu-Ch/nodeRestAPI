@@ -1,0 +1,228 @@
+[{
+		"name": "Short Stubble",
+		"image": "stubble-short.jpg",
+		"sub_title": "Most Simple Beard Style",
+		"description": ["The short stubble style of beard is arguably one of the most simple ones around.",
+			"It can be achieved by growing facial hair for a few days after shaving.",
+			"This type beard looks very short. To maintain a short stubble successfully, use a trimmer and adjust it so that the built-in guard is set all the way back.",
+			"Any hair that grows below the Adam’s apple should be trimmed using a trimmer or razor.",
+			"If you have stubble all the way to your cheeks, you can trim or shave the hair just below your cheekbone."
+		]
+	},
+	{
+		"name": "Medium Stubble",
+		"image": "stubble-medium.jpg",
+		"sub_title": "A Neat Style of Beard",
+		"description": ["As the name suggests, a medium stubble is a beard style slightly longer than the short stubble.",
+			"While the short stubble can be achieved by growing the beard for 1 to 2 days, a medium stubble may require a couple of days more.",
+			"A medium stubble can be anywhere between 3 to 5 mm long.",
+			"Any longer and it begins to look unkempt and sloppy.",
+			"As with the short stubble, a medium stubble looks best when kept at the bottom third of a man’s face and right above the adam’s apple.",
+			"Upper cheeks must be left clean shaven so that the overall look appears neat and deliberate"
+		]
+	},
+	{
+		"name": "Long Stubble",
+		"image": "stubble-long.jpg",
+		"sub_title": "The Perfect 5 O’ Clock Shadow Beard Style",
+		"description": ["The long stubble style of beard may be trickier to maintain than its shorter counterparts.",
+			"It is also referred to as the perfect five o’clock shadow as it presents as an even darkening in the lower third of a man’s face.",
+			"The long stubble is slightly longer than the medium stubble, measuring about 6 mm and to achieve this look an adjustable beard trimmer, set with the built-in guard at the back will work best.",
+			"A beardsman who chooses to sport the long stubble style is also encouraged to trim the stubble just so that the overall look remains consistent.",
+			"Stray hairs must be removed using scissors or a precision trimmer",
+			"Again, any hair that grows above the lower third of the face and below the top of the Adam’s apple must be gotten rid of"
+		]
+	},
+	{
+		"name": "Full Beard",
+		"image": "full-beard.jpg",
+		"sub_title": "A Classic Beard Style",
+		"description": ["The Full Beard is considered a classic style and THE classic way to actually grow facial hair.  The full beard can be difficult to achieve as not every man has the ability to grow one.",
+			"A full beard has a very distinct shape:  It starts at the cheek line and everything below that is left to grow naturally.",
+			"Beardsmen who have cheek lines that are naturally too high, or have trouble defining the cheek line, are advised to draw an imaginary line from the angle of the side burn in front of the ear up to the outer edge of a mustache.",
+			"A full beard takes time and it’s recommended beardsmen who want this style start growing their beards while on leave to get past the first phase. There may be strange reactions from other people during the growing phase.",
+			"After 4 weeks beardsmen who are successful in growing a full beard can start shaping it and start defining a neck line.",
+			"For this process a professional stylist or barber comes highly recommended and can usually spell the difference between success and failure."
+		]
+	},
+	{
+		"name": "French Fork Beard",
+		"image": "french-fork.jpg",
+		"sub_title": "A Distinct Beard Style",
+		"description": ["A French Fork beard is a very distinctive style.",
+			"It’s still considered a full beard look, but is characterized by hair extending past the chin and splitting down the middle in two segments and is named for the fact that original French forks only had 2 prongs.",
+			"In recent times, fictional character Jack Sparrow has been credited for making the French Fork look cool again."
+		]
+	},
+	{
+		"name": "Ducktail Beard",
+		"image": "ducktail.jpg",
+		"sub_title": "A Sophisticated Beard Style",
+		"description": ["The Ducktail style of beard is another twist off the original full beard and gets its name from its appearance.",
+			"By looking at it you can easily see how much the bottom part of this style of beard resembles the tail of a duck.",
+			"Many beardsmen consider the Ducktail a perfect compromise between the wild characteristic of having a beard and well-groomed sophistication. It’s possibly for this reason the Ducktail continues to be one of the most popular styles of beard today",
+			"To create it the upper part of the beard is trimmed shorter while the hair on the chin area is allowed to grow as long as the man wants it to grow, providing that perfect blend of styled and rugged"
+		]
+	},
+	{
+		"name": "Circle Beard",
+		"image": "circle-beard.jpg",
+		"sub_title": "The “Standard” Beard",
+		"description": ["The Circle beard is the style for beardsmen who want a neater appearance",
+			"While having full beards may appear untidy, wild and unkempt to some, the circle beard is a good compromise that allows a man to still keep some facial hair.",
+			"The circle beard derives its name from its shape.  It combines a mustache and a rounded goatee to create the distinct round shape.",
+			"Part of the circle beard’s popularity stems from the fact that it is relatively easy to maintain: As long as the beard retains its round shape and short hair it’s perfectly acceptable.",
+			"Sporting circle beards have a number of benefits.",
+			"It’s a great way to conceal a softer jaw line or even skin breakouts and also works well on beardsmen who have squarish faces and jaws."
+		]
+	},
+	{
+		"name": "Goatee Beard",
+		"image": "goatee.jpg",
+		"sub_title": "The “Chin-Only” Beard",
+		"description": ["A goatee is a type of beard worn on the chin, much like a Billy Goat’s beard and is never supposed to be connected to a mustache.",
+			"A proper goatee should have hair right below the lower lip and the standard size for a goatee has to be the same as the width of the beardsman’s mouth.",
+			"To grow a goatee a beardsman must allow the hair below the lower lip to grow down into the part of the beard growing on the chin",
+			"The sides are then defined as vertical lines or slightly curved, based on the beardsman’s preference and the hair is then rounded off at the bottom of the chin."
+		]
+	},
+	{
+		"name": "Extended Goatee",
+		"image": "extended-goatee.jpg",
+		"sub_title": "The Hollywoodian Beard Style",
+		"description": ["The extended goatee is also called the tailback or the Hollywoodian and it’s a combination of the goatee and the mustache.",
+			"Even more variations on this style can be attained by simply adjusting the shapes and angles of the hair extensions.",
+			"In appearance it looks like a mustache connected to a beard, but with the sideburns removed.",
+			"To grow an extended goatee it’s suggested the beardsman allows a larger area of hair to grow than the preferred size. Once there is enough growth it becomes a simple matter to trim the extended goatee into the desired shape and size."
+		]
+	},
+	{
+		"name": "Imperial Beard",
+		"image": "imperial.jpg",
+		"sub_title": "The Beard Royale",
+		"description": ["For the man who really wants to make an impression with his facial hair, the Imperial style is certainly one that will do that!",
+			"The Imperial beard style is not really a beard but rather a mustache and was popular in France during the period of the Second Empire, where it got the name Imperial, instead of the former Royale.",
+			"It is not to be confused with the Napoleon III Imperial but has similarities wherein the actual moustache is connected to the hairs that grow on the cheeks and the fact that the tips curl over while with the Imperial the tips simply point upward.",
+			"The chin and sideburns are left bare when donning the Imperial, allowing it to be the center of attention."
+		]
+	},
+	{
+		"name": "Van Dyke Beard",
+		"image": "van-dyk.jpg",
+		"sub_title": "Sleek & Stylish",
+		"description": ["The theory behind the Van Dyke beard style is simple: a goatee combined with a mustache.",
+			"The Van Dyke beard style gets its name from the 17th Century Flemish painter Anthony Van Dyke and this beard style was his signature look, but has recently experienced a resurgence in popularity.",
+			"When sporting the Van Dyke, the rest of the beardman’s cheeks have to be completely smooth and free of facial hair.",
+			"A Van Dyke also looks better if it is more defined, so those who choose to wear this style are advised to pay close attention to the shape of the chin beard, making sure that the lines remain clear as time passes."
+		]
+	},
+	{
+		"name": "Balbo Beard",
+		"image": "balbo.jpg",
+		"sub_title": "An Interesting Style of Beard",
+		"description": ["The Balbo beard style has an interesting history.",
+			"It used to be closely linked to fascists as the man who made it popular was Italian Air Marshall Italo Balbo, who was one of Mussolini’s henchmen during the second world war. In recent times though, the Balbo seems to be synonymous with actor Robert Downey Jr.",
+			"The Balbo style can be broken down into three main sections",
+			"First, it requires one to grow a moustache.",
+			"Secondly there is the hair from the chin taking note of the patch under the lip.",
+			"The third part is the hair that is allowed to grow beneath the patch under the lip, resembling the low part of a typical beard.",
+			"For reference the Balbo should resemble an inverted “T”.",
+			"The Balbo will suit men who have narrow chins. It is also a go-to style for men who may have been aiming for the Van Dyke but have had a couple of trimming mishaps"
+		]
+	},
+	{
+		"name": "Mutton Chops",
+		"image": "mutton-chops.jpg",
+		"sub_title": "A Fancy Style of Beard",
+		"description": ["The Mutton chops style of beard are actually a fancier term for longer sideburns that are allowed to extend down to the corners of the mouth.",
+			"To grow Mutton Chops, a man should let his sideburns grow to the corner of his mouth freely.",
+			"Then, he should terminate a part of the sideburns, creating an imaginary line defined at each corner of the mouth",
+			"The bottom edge of the sideburns should be clearly defined along the edge of the jawline."
+		]
+	},
+	{
+		"name": "Friendly Mutton Chops",
+		"image": "friendly-mutton-chops.jpg",
+		"sub_title": "A Beard Style with a Unique Variation",
+		"description": ["There is a slight variation between the Friendly Mutton Chops style of beard to the regular Mutton Chops.",
+			"Friendly Mutton Chops still involve sideburns but these have to extend to the edge of the mouth and have to be connected to a moustache. Keep in mind that the moustache is the main difference.",
+			"To grow Friendly Mutton Chops, allow sideburns grow to the corners of your mouth, at the same time allowing the moustache to grow,too.",
+			"Allow the two to connected to each other.  Then, terminate part of the sideburns by drawing an imaginary vertical line defined at each corner of the mouth.",
+			"As with regular mutton chops, the bottom line of the sideburns should be defined along the jaw line."
+		]
+	},
+	{
+		"name": "Anchor Beard",
+		"image": "anchor.jpg",
+		"sub_title": "Uniquely Stylish",
+		"description": ["As you may have already guessed, the Anchor style of beard gets its name from the nautical anchor and the overall shape should resemble one.",
+			"To get the Anchor right, a beardman’s face must be free of sideburns, but have a beard that extends along the jawline and is then styled to a point.",
+			"This point should be connected to a pencil mustache so that the overall shape is anchor-like. A word of caution regarding this style: it can be tricky to get right as it’s a combination of many styles, namely the Chinstrap, the Goatee and the Handlebar.",
+			"The Anchor style suits beardsmen with square or oblong shaped faces the best, so it’s not a beard style that anyone can just pull off."
+
+		]
+	},
+	{
+		"name": "Dutch Beard",
+		"image": "dutch.jpg",
+		"sub_title": "An Old School Beard Style",
+		"description": ["The Dutch Beard is known to be an old-school beard style.",
+			"It is commonly associated with the lumberjack type of facial hair.",
+			"The Dutch also referred to as the Old Dutch is a large and long beard.",
+			"It is connected by sideburns and is allowed to flare outwards at the bottom.",
+			"The Dutch should not have a moustache."
+		]
+	},
+	{
+		"name": " Bandholz Beard",
+		"image": "bandholz.jpg",
+		"sub_title": "A Longer Style of Full Beard",
+		"description": ["The Bandholz style of beard has a very interesting story behind it.",
+			"Eric Bandholz started out as a run of the mill guy working in the corporate world.",
+			"In 2011, he felt a strong desire to grow a beard but always got negative comments from his corporate work environment",
+			"He then decided to ditch his job and began to pursue what he calls his “urban beardsman lifestyle”.",
+			"Today, Eric Bandhoz is the founder of Beardbrand, a company that specializes in men’s grooming products.",
+			"With that, he also became well known for sporting a distinct style of beard which is known as the Bandholz",
+			"The Bandholz features a moustache that is connected to a full beard.",
+			"Unlike the Garibaldi, the beard does not stop at the 20 cm mark but is allowed to grow freely."
+		]
+	},
+	{
+		"name": "Verdi Beard",
+		"image": "verdi.jpg",
+		"sub_title": "An Impeccably Groomed Beard Style",
+		"description": ["The Verdi is an example of a full beard that has been slightly styled.",
+			"It should be short and rounded at the bottom and should be no longer than 10 cm in length when measured from the bottom lip.",
+			"The Verdi also features a moustache that is distinct from the beard.",
+			"The moustache must not grow more than 1.5 cm past the corner of the mouth.",
+			"The moustache must always appear impeccably groomed.",
+			"The Verdi style of beard is inspired by Giuseppe Verdi (1813-1901)",
+			"He was an Italian operatic composer who is best known for masterpieces such as La Traviata, Il Trovatore, and Rigoletto."
+		]
+	},
+	{
+		"name": "Garibaldi Beard",
+		"image": "garibaldi_beard.jpg",
+		"sub_title": "A Beard Style that Allows Natural Growth",
+		"description": ["The Garibaldi is the type of beard that will suit a man who is looking for a slightly unkempt style.",
+			"It is basically a wide and full beard with a rounded bottom and an integrated moustache.",
+			"The Garibaldi should be no more than 20 cm in length.",
+			"While the moustache should be kept neat, the beard can be allowed to grow naturally. In fact, the more natural the beard appears the better.",
+			"The Garibaldi is a good compromise as it appears as a bold and full beard but is actually shorter than most beards in the natural category."
+		]
+	},
+	{
+		"name": "Clean Shaven",
+		"image": "clean-shaven.jpg",
+		"sub_title": "A Beard Style for the Carefree Man",
+		"description": ["Its probably a no brainer to most of you as to what a clean shave beard style is.",
+			"As the name suggests, it is a very clean style, meaning the absence of any facial hair.",
+			"While it is fair to say that growing facial hair comes with a certain set of benefits, the same can also be said for the clean-shaven look.",
+			"For one, studies and surveys show that majority of women prefer the clean shaven look.",
+			"Women seem to prefer the clean shaven look for a variety of reasons including hygiene",
+			"A number of respondents have also said that when a man is free from facial hair, it shows that he has nothing to hide in his facial features.",
+			"He is not trying to disguise acne or a weak chin but is just confident in showing off what he has!"
+		]
+	}
+
+]

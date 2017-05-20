@@ -1,0 +1,17 @@
+{
+  "name": "noderest",
+  "version": "1.0.0",
+  "description": "\"RestAPI with Nodejs & ExpressJs\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Raghu\"",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  }
+}
